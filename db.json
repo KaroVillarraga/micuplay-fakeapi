@@ -203,5 +203,42 @@
             "image": "https://play.micukids.com/play/memorycards/back/Z.jpg",
             "video": "https://play.micukids.com/play/flipcards/back/Z_animation.mp4"
         }
-]
+    ],
+    "vowels": [
+        {
+            "letter": "A",
+            "type": "vowel",
+            "sound": "https://play.micukids.com/play/memorycards/audio/a_arcoiris.mp3",
+            "image": "https://play.micukids.com/play/memorycards/back/A.jpg",
+            "video": "https://play.micukids.com/play/flipcards/back/A_animation.mp4"
+        },
+        {
+            "letter": "E",
+            "type": "vowel",
+            "sound": "https://play.micukids.com/play/memorycards/audio/e_elefante.mp3",
+            "image": "https://play.micukids.com/play/memorycards/back/E.jpg",
+            "video": "https://play.micukids.com/play/flipcards/back/E_animation.mp4"
+        },
+        {
+            "letter": "I",
+            "type": "vowel",
+            "sound": "https://play.micukids.com/play/memorycards/audio/i_iguana.mp3",
+            "image": "https://play.micukids.com/play/memorycards/back/I.jpg",
+            "video": "https://play.micukids.com/play/flipcards/back/I_animation.mp4"
+        },
+        {
+            "letter": "O",
+            "type": "vowel",
+            "sound": "https://play.micukids.com/play/memorycards/audio/o_oso.mp3",
+            "image": "https://play.micukids.com/play/memorycards/back/O.jpg",
+            "video": "https://play.micukids.com/play/flipcards/back/O_animation.mp4"
+        },
+        {
+            "letter": "U",
+            "type": "vowel",
+            "sound": "https://play.micukids.com/play/memorycards/audio/u_uvas.mp3",
+            "image": "https://play.micukids.com/play/memorycards/back/U.jpg",
+            "video": "https://play.micukids.com/play/flipcards/back/U_animation.mp4"
+        },
+    ]
 }
